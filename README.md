@@ -3,14 +3,14 @@
 ### This repo contains code, data and resources developed and curated during internal work on this area
 
 ## Tech/framework used
-NumPy
-Pandas
-Matplotlib
-Scikit-Learn
-NLTK
-Cohere
-UMAP
-Plotly
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-Learn
+- NLTK
+- Cohere
+- UMAP
+- Plotly
 
 ## Credits
 The code was developed by a wonderful team:
