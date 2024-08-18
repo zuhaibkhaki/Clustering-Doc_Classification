@@ -1,8 +1,7 @@
 ## Clustering and Document Classification
+This repo contains code, data and resources developed and curated during internal work on this area
 
-### This repo contains code, data and resources developed and curated during internal work on this area
-
-## Tech/framework used
+## Frameworks used
 - NumPy
 - Pandas
 - Matplotlib
@@ -14,7 +13,7 @@
 
 ## Credits
 The code was developed by a wonderful team:
-Ahmad Saadat, Tufail Shah, Rabia Zahid, Zuhaib Khaki
+[Ahmad Saadat](https://github.com/AhmadSaadat617), [Tufail Shah](https://github.com/TufailAhmadShah), Rabia Zahid, [Zuhaib Khaki](https://github.com/zuhaibkhaki), Aaqib Bashir
 
 
 ## Code Ownership
