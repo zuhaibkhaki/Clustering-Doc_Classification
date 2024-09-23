@@ -12,9 +12,4 @@ This repo contains code, data and resources developed and curated during interna
 - Plotly
 
 ## Credits
-The code was developed by a wonderful team:
-[Ahmad Saadat](https://github.com/AhmadSaadat617), [Tufail Shah](https://github.com/TufailAhmadShah), Rabia Zahid, [Zuhaib Khaki](https://github.com/zuhaibkhaki), Aaqib Bashir
-
-
-## Code Ownership
-This code belongs to Chinar Quantum AI
+The code was developed by a wonderful team: Ahmad Saadat, Tufail Shah, Rabia Zahid, Zuhaib Khaki, Aaqib Bashir
